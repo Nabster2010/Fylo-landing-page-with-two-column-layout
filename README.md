@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/Nabster2010/Fylo-landing-page-with-two-column-layout)
+- Solution URL: [github repo](https://github.com/Nabster2010/
+frontend-mentor-Fylo-landing-page-with-two-column-layout)
 - Live Site URL: [live site](https://shiny-snickerdoodle-ecbfce.netlify.app/)
 
 ## My process
